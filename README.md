@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20al+repositorio+del%20Bot%20⚔️&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
-## `【🐲】BLACK CLOVER`
+## `【🐲】⚔️ © Powered By[VÍCTOR-BOT`
 
 <p align="center">   
 <a href="https://github.com/thecarlos19/black-clover-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/thecarlos19/black-clover-MD?label=Watchers&color=green&style=flat-square"></a>
@@ -25,7 +25,7 @@
 
 </details>
 
-<!-- RAINBOW LINE BOT -->
+<!-- ⚔️ © Powered By[VÍCTOR-BOT LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 > [!TIP]
@@ -67,10 +67,16 @@ npm start
 
 </details>
 
-<!-- RAINBOW LINE BOT -->
+<!-- ⚔️ © Powered By[VÍCTOR-BOT LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## `𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑫𝒆𝒍 𝑩𝒐𝒕` 
-<a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
 
-[© Powered By the-legends ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
+094243071
+
+096172320
+
+<a 
+href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
+
+[⚔️© Powered By[VÍCTOR-BOT ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
