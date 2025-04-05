@@ -71,6 +71,10 @@ npm start
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## `𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐 𝑫𝒆𝒍 𝑩𝒐𝒕` 
-<a href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
+<a 
+  🪀 59894243071
+
+  🪀 59896172320
+  href="https://github.com/thecarlos19"><img src="https://github.com/thecarlos19.png" width="250" height="250" alt="thecarlos19"/></a>
 
 [⚔️© Powered By[VÍCTOR-BOT ⚡︎](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
